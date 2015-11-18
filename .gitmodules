@@ -1,0 +1,3 @@
+[submodule "Ciseco"]
+	path = Ciseco
+	url = https://github.com/wemblykj/Arduino_Ciseco_Sketches
