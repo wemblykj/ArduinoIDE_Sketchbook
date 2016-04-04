@@ -1,3 +1,3 @@
-[submodule "Ciseco"]
-	path = Ciseco
-	url = https://github.com/wemblykj/Arduino_Ciseco_Sketches
+[submodule "RFu328"]
+	path = RFu328
+	url = https://github.com/wemblykj/Arduino_RFu328_Sketches
